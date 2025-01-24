@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Zephyr Logo](https://via.placeholder.com/150?text=Zephyr)
+![Zephyr Logo](https://zephyrlab.fun/assets/logo.png)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
@@ -68,7 +68,7 @@ Zephyr Platform
 
 1. **Clone Repository**
    ```bash
-   git clone https://github.com/yourusername/zephyr.git
+   git clone https://github.com/ZephyrDeFAI/zephyr.git
    cd zephyr
    ```
 
@@ -140,8 +140,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- Project Homepage: [GitHub](https://github.com/yourusername/zephyr)
-- Issue Tracker: [Issues](https://github.com/yourusername/zephyr/issues)
+- Project Homepage: [GitHub](https://github.com/ZephyrDeFAI/zephyr)
+- Issue Tracker: [Issues](https://github.com/ZephyrDeFAI/zephyr/issues)
 - Community: [Discord](https://discord.gg/yourdiscord)
 
 ---
