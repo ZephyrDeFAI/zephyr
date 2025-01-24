@@ -142,7 +142,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Project Homepage: [GitHub](https://github.com/ZephyrDeFAI/zephyr)
 - Issue Tracker: [Issues](https://github.com/ZephyrDeFAI/zephyr/issues)
-- Community: [Discord](https://discord.gg/yourdiscord)
+
 
 ---
 
